@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;EjSocketServer&apos;" deleteContents="false" description="Delete resource &apos;EjSocketServer&apos;" element1="/EjSocketServer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1610646568234"/>&#x0A;<refactoring comment="Delete resource &apos;EjSocket&apos;" deleteContents="false" description="Delete resource &apos;EjSocket&apos;" element1="/EjSocket" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1610646574759"/>
+</session>
